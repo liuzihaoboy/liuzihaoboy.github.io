@@ -67,19 +67,18 @@ author:
   name   : "liuzihao"
   avatar : "/assets/images/23217293.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Beijing, China"
+  email: "liuzihao0616@qq.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://liuzihaoboy.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/liuzihaoboy"
 
 footer:
   links:
