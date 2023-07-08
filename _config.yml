@@ -32,7 +32,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "zh-CN"
+locale: "en-US"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
