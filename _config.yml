@@ -32,7 +32,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
+locale: "zh-CN"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "liuzihao"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/443908FC-491B-41D7-BA51-66E2399B9A0C_1_105_c.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
